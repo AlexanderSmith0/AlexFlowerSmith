@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexFlowerSmith
 - 👀 I’m interested in Software Development as my introduction to technology
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning the Full-Stack Engineer Path on Codecademy.com 🌱
 
 <!---
 AlexFlowerSmith/AlexFlowerSmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
